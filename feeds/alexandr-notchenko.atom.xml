@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Optimal Way</title><link href="/" rel="alternate"></link><link href="/feeds/alexandr-notchenko.atom.xml" rel="self"></link><id>/</id><updated>2014-07-10T14:26:00+04:00</updated><entry><title>Extending my memory</title><link href="/blog/2014/07/10/extending-my-memory/" rel="alternate"></link><updated>2014-07-10T14:26:00+04:00</updated><author><name>Alexandr Notchenko</name></author><id>tag:,2014-07-10:blog/2014/07/10/extending-my-memory/</id><summary type="html">&lt;hr /&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;On my way to write more, and to master pelican static site generator, idea of this site was enveloped.
+And after several month I've finally put my hands to it. So here goes nothing, my first attemt at blogging for purposes of journaling, communications with like-minded individuals, and just showing off as often as I can.&lt;/p&gt;
+&lt;p&gt;Please enjoy the contents. )&lt;/p&gt;
+&lt;p&gt;AVN&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;Article Body!!&lt;/h3&gt;
+&lt;p&gt;Body!!&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;some_function&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary></entry></feed>
